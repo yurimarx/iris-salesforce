@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="dc-sample.ZPM">
+  <Document name="iris-salesforce.ZPM">
     <Module>
-      <Name>dc-sample</Name>
-      <Version>2.0.4</Version>
-      <Description>Basic InterSystems IRIS Development Template</Description>
+      <Name>iris-salesforce</Name>
+      <Version>1.0.0</Version>
+      <Description>Interoperability Adapter for Salesforce</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-      <Resource Name="dc.sample.PKG"/>
-      <UnitTest Name="/tests" Package="dc.sample.unittests" Phase="test"/>
-
+      <Resource Name="dc.irissalesforce.PKG"/>
     </Module>
   </Document>
 </Export>

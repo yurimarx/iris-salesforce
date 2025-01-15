@@ -1,0 +1,7 @@
+{
+    "instance": "[YOUR_INSTANCE].my.salesforce.com",
+    "clientId": "[YOUR OAUTH CLIENT ID]",
+    "clientSecret": "[YOUR OAUTH CLIENT SECRET]",
+    "username": "[YOUR SALESFORCE USERNAME]",
+    "password": "[YOUR SALESFORCE PASSWORD]"
+}
