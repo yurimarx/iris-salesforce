@@ -66,6 +66,4 @@ Enter HALT or H (not case-sensitive)
     "password": "[YOUR SALESFORCE PASSWORD]"
 }
 
-2. Create a new Interoperability production:
-
-3. 
+2. Follow this tutorial: https://github.com/yurimarx/iris-salesforce/blob/4137c721ba33294eb7374d86a33f1f7a9ef6db8c/Tutorial%20-%20Salesforce%20Integration%20with%20InterSystems%20IRIS.pdf
